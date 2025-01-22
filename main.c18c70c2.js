@@ -6936,7 +6936,7 @@
                                     style: {color: "#0f0", textDecoration: "underline"},
                                     children: "dexscreener"
                                 }), (0, T.jsx)("a", {
-                                    href: "https://t.me/",
+                                    href: "https://t.me/FMFOMO_bot",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     style: {color: "#0f0", textDecoration: "underline"},
