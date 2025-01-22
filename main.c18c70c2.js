@@ -6924,7 +6924,7 @@
                             }), (0, T.jsxs)("div", {
                                 className: "social-link-container",
                                 children: [(0, T.jsx)("a", {
-                                    href: "https://pump.fun/coin",
+                                    href: "https://pump.fun/coin/B1rtjcf8K4BiYu1xuX8QFWT4qrLoN3Ponv2HWaZGpump",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     style: {color: "#0f0", textDecoration: "underline"},
@@ -6950,7 +6950,7 @@
                                 })]
                             }), (0, T.jsx)("div", {
                                 className: "sub-header-text",
-                                children: "CA: "
+                                children: "CA: B1rtjcf8K4BiYu1xuX8QFWT4qrLoN3Ponv2HWaZGpump"
                             })]
                         })]
                     })
