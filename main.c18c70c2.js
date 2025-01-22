@@ -6924,7 +6924,7 @@
                             }), (0, T.jsxs)("div", {
                                 className: "social-link-container",
                                 children: [(0, T.jsx)("a", {
-                                    href: "https://pump.fun/",
+                                    href: "https://virtuals.io/",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     style: {color: "#0f0", textDecoration: "underline"},
