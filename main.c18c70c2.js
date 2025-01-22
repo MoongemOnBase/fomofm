@@ -6950,7 +6950,7 @@
                                 })]
                             }), (0, T.jsx)("div", {
                                 className: "sub-header-text",
-                                children: "CA: 0x6b1E5a234416516E54B400B3FC4480e77CBD4EEa"
+                                children: "CA: "
                             })]
                         })]
                     })
