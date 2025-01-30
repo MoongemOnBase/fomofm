@@ -6924,11 +6924,11 @@
                             }), (0, T.jsxs)("div", {
                                 className: "social-link-container",
                                 children: [(0, T.jsx)("a", {
-                                    href: "https://pump.fun/coin/B1rtjcf8K4BiYu1xuX8QFWT4qrLoN3Ponv2HWaZGpump",
+                                    href: "https://virtuals.io",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     style: {color: "#0f0", textDecoration: "underline"},
-                                    children: "pump.fun"
+                                    children: "virtuals.io"
                                 }), (0, T.jsx)("a", {
                                     href: "https://dexscreener.com/",
                                     target: "_blank",
