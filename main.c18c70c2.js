@@ -6950,7 +6950,7 @@
                                 })]
                             }), (0, T.jsx)("div", {
                                 className: "sub-header-text",
-                                children: "CA: B1rtjcf8K4BiYu1xuX8QFWT4qrLoN3Ponv2HWaZGpump"
+                                children: "CA: contract_address"
                             })]
                         })]
                     })
