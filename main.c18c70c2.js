@@ -6930,11 +6930,11 @@
                                     style: {color: "#0f0", textDecoration: "underline"},
                                     children: "virtuals.io"
                                 }), (0, T.jsx)("a", {
-                                    href: "https://dexscreener.com/",
+                                    href: "https://pump.fun/coin/",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     style: {color: "#0f0", textDecoration: "underline"},
-                                    children: "dexscreener"
+                                    children: "pump.fun"
                                 }), (0, T.jsx)("a", {
                                     href: "https://t.me/FMFOMO_bot",
                                     target: "_blank",
@@ -6950,7 +6950,7 @@
                                 })]
                             }), (0, T.jsx)("div", {
                                 className: "sub-header-text",
-                                children: "CA: 0x41A53584652aACbdb1094d5Cd84C4072A786Bd28"
+                                children: ""
                             })]
                         })]
                     })
