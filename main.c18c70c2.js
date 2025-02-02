@@ -6930,7 +6930,7 @@
                                     style: {color: "#0f0", textDecoration: "underline"},
                                     children: "virtuals.io"
                                 }), (0, T.jsx)("a", {
-                                    href: "https://pump.fun/coin/",
+                                    href: "https://pump.fun/coin/6WCmiRqT61ZoBh5pKvC8bzHSEzBNpGGyBeHc9PePpump",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     style: {color: "#0f0", textDecoration: "underline"},
