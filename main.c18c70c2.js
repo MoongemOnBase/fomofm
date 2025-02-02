@@ -6930,11 +6930,11 @@
                                     style: {color: "#0f0", textDecoration: "underline"},
                                     children: "virtuals.io"
                                 }), (0, T.jsx)("a", {
-                                    href: "https://pump.fun/coin/6WCmiRqT61ZoBh5pKvC8bzHSEzBNpGGyBeHc9PePpump",
+                                    href: "https://dexscreener.com/",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     style: {color: "#0f0", textDecoration: "underline"},
-                                    children: "pump.fun"
+                                    children: "dexscreener"
                                 }), (0, T.jsx)("a", {
                                     href: "https://t.me/FMFOMO_bot",
                                     target: "_blank",
@@ -6950,7 +6950,7 @@
                                 })]
                             }), (0, T.jsx)("div", {
                                 className: "sub-header-text",
-                                children: ""
+                                children: "CA: 0x41A53584652aACbdb1094d5Cd84C4072A786Bd28"
                             })]
                         })]
                     })
