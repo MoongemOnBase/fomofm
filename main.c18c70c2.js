@@ -6924,7 +6924,7 @@
                             }), (0, T.jsxs)("div", {
                                 className: "social-link-container",
                                 children: [(0, T.jsx)("a", {
-                                    href: "https://app.virtuals.io/prototypes/0x41A53584652aACbdb1094d5Cd84C4072A786Bd28",
+                                    href: "https://app.virtuals.io/prototypes/JAUuAyShHXxvEYc91nzDNSVuNVN1RV9pzaGdAy7Vvirt",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     style: {color: "#0f0", textDecoration: "underline"},
@@ -6950,7 +6950,7 @@
                                 })]
                             }), (0, T.jsx)("div", {
                                 className: "sub-header-text",
-                                children: "CA: 0x41A53584652aACbdb1094d5Cd84C4072A786Bd28"
+                                children: "CA: JAUuAyShHXxvEYc91nzDNSVuNVN1RV9pzaGdAy7Vvirt"
                             })]
                         })]
                     })
