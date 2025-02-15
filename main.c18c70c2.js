@@ -6924,7 +6924,7 @@
                             }), (0, T.jsxs)("div", {
                                 className: "social-link-container",
                                 children: [(0, T.jsx)("a", {
-                                    href: "https://app.virtuals.io/prototypes/",
+                                    href: "https://app.virtuals.io/prototypes/0xBF3ecc70DAd2453d0f4acB14b173E972Ce9E5782",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     style: {color: "#0f0", textDecoration: "underline"},
@@ -6950,7 +6950,7 @@
                                 })]
                             }), (0, T.jsx)("div", {
                                 className: "sub-header-text",
-                                children: "CA:  "
+                                children: "CA: 0xBF3ecc70DAd2453d0f4acB14b173E972Ce9E5782 "
                             })]
                         })]
                     })
